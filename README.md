@@ -1,5 +1,5 @@
 # Encode-and-Decode-Strings
-Challenge at LeetCode.com. Tags: String, Design, Encryption.
+Challenge at LeetCode.com. Tags: String, Design, Encoding, Decoding, Encryption, Decryption.
 
 ---------------------------------------------------------------------------------------------------------------------
 
